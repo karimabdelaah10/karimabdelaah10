@@ -22,6 +22,7 @@ const karim = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Karim)](https://x.com/karimabdelaah1)
-[![Linkedin: anmol](https://img.shields.io/badge/-Karim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karimabdelaah10/)
+[![Twitter Follow](https://img.shields.io/badge/-white?logo=x&logoColor=black)](https://x.com/karimabdelaah1)
+[![Linkedin: anmol](https://img.shields.io/badge/-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karimabdelaah10/)
+[![Upwork: anmol](https://img.shields.io/badge/-green?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ac820fc7c416ce18?mp_source=share)
+[![Wuzzuf: anmol](https://img.shields.io/badge/-blue?logo=webtrees&logoColor=white)](https://wuzzuf.net/me/karim-abdelaah-2043741ead?utm_medium=other&utm_source=referral)
